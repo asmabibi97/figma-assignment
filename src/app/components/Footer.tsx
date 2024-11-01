@@ -1,24 +1,22 @@
-import React from 'react'
+
+import React from "react";
+import style from "../components/footer.module.css";
 
 function Footer() {
   return (
-    <div>
-      <div className='flex w-[1120px] h-[20px] mt-52'>
-        <div className=''> 
-            <h2>Mehmet Akif Karasu ⏤ 2020
-            </h2>
-        </div>
-        <div>
-            <ul>
-                <li>Artstation
-                </li>
-                <li>Linkedin</li>
-                <li>Twitter</li>
-            </ul>
-        </div>
+    <footer className={style.footer}>
+      <div>
+        <h2 className={style.akif}>Mehmet Akif Karasu ⏤ 2020</h2>
       </div>
-    </div>
-  )
+      <div>
+        <ul className="font-sans">
+          <li className={style.artstation}>Artstation</li>
+          <li className={style.linkedin}>Linkedin</li>
+          <li className={style.twitter}>Twitter</li>
+        </ul>
+      </div>
+    </footer>
+  );
 }
 
-export default Footer
+export default Footer;

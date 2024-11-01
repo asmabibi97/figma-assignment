@@ -1,0 +1,104 @@
+/* Footer
+
+Footer
+*/
+.footer{
+    position: relative;
+    width: 1120px;
+    height: 20px;}
+    
+    
+    
+    /* Mehmet Akif Karasu ⏤ 2020 */
+    .akif{
+    position: absolute;
+    left: 0%;
+    right: 75.82%;
+    top: 0%;
+    bottom: 0%;
+    
+    /* Navigation */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    /* or 25px */
+    letter-spacing: -0.03em;
+    
+    /* Secondary */
+    color: #2429AF;
+    }
+    
+    
+    /* Artstation */
+    .artstation{
+    
+        position: absolute;
+        left: 70.59%;
+        right: 20.64%;
+        top: 0%;
+        bottom: 0%;
+        
+        /* Navigation */
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 120%;
+        /* or 25px */
+        letter-spacing: -0.03em;
+        
+        /* Main Black */
+        color: #181717;
+        
+    }
+    
+    
+    /* Linkedin */
+    .linkedin{
+    
+        position: absolute;
+        left: 82.2%;
+        right: 9.03%;
+        top: 0%;
+        bottom: 0%;
+        
+        /* Navigation */
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 120%;
+        /* or 25px */
+        letter-spacing: -0.03em;
+        
+        /* Main Black */
+        color: #181717;
+        
+    }
+    
+    
+    /* Twitter */
+    .twitter{
+    
+        position: absolute;
+        left: 93.8%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+    /* Navigation */
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    /* or 25px */
+    letter-spacing: -0.03em;
+    
+    /* Main Black */
+    color: #181717;
+    
+    }
